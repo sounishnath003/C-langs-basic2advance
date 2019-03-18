@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1550760315 source:c:\users\sounish\desktop\new folder\__trapizodial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1530787293 source:e:\from_old_now\documents\c programs\_merge_sort_array\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1533665080 source:e:\from_old_now\documents\c programs\_merge_sort_array\_thereja_sort.c
+	<stdio.h>
+	<conio.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1525057064 source:c:\users\sounish nath\documents\c programs\array_maximum_element_show\main-index.c
+	<stdio.h>
+	<stdlib.h>
+
+1525056734 source:c:\users\sounish nath\documents\c programs\array_maximum_element_show\main.c
+	<stdio.h>
+	<stdlib.h>
+

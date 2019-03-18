@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1551369228 source:c:\users\sounish\desktop\new folder\_simpson_rule\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1521602915 source:c:\users\flock\desktop\test\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1522750097 source:f:\atom\atom_programming\c\bubble_sort\test\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1522750097 source:c:\users\sounish nath\documents\c programs\bubble_sort\test\main.c
+	<stdio.h>
+	<stdlib.h>
+

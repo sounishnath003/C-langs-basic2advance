@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\SOUNISH\source\repos\bisectionMethod\bisectionMethod\Source.c(26): warning C4101: 'k': unreferenced local variable
+C:\Users\SOUNISH\source\repos\bisectionMethod\bisectionMethod\Source.c(23): warning C4716: 'f': must return a value
+  bisectionMethod.vcxproj -> C:\Users\SOUNISH\source\repos\bisectionMethod\Debug\bisectionMethod.exe
