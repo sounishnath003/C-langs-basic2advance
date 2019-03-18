@@ -1,0 +1,2 @@
+C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file C:\Users\flock\AppData\Local\Temp\max_three.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
