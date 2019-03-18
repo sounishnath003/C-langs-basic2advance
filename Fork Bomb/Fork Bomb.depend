@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\sounish nath\documents\c programs\fork bomb\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1525448537 source:c:\users\sounish nath\documents\c programs\fork bomb\fork.c
+	<unistd.h>
+

@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\SOUNISH\source\repos\eular-emthod\eular-emthod\Source.c(46): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\SOUNISH\source\repos\eular-emthod\eular-emthod\Source.c(47): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+  eular-emthod.vcxproj -> C:\Users\SOUNISH\source\repos\eular-emthod\Debug\eular-emthod.exe

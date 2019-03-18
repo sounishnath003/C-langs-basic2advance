@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\SOUNISH\source\repos\RK-4 METHOD\RK-4 METHOD\Source.c(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+  RK-4 METHOD.vcxproj -> C:\Users\SOUNISH\source\repos\RK-4 METHOD\Debug\RK-4 METHOD.exe

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1525073272 source:c:\users\sounish nath\documents\c programs\gcd_of_number\main.c
+	<stdio.h>
+
+1525073199 source:c:\users\sounish nath\documents\c programs\gcd_of_number\gcd.c
+	<stdio.h>
+

@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\SOUNISH\source\repos\reverse_string\reverse_string\Source.c(18): warning C4013: 'system' undefined; assuming extern returning int
+  reverse_string.vcxproj -> C:\Users\SOUNISH\source\repos\reverse_string\Debug\reverse_string.exe

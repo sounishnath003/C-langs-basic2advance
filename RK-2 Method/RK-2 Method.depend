@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1550206704 source:c:\users\sounish\desktop\new folder\rk-2 method\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
